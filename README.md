@@ -13,7 +13,7 @@
 - <span style="color:#9f9">NodeJS</span>
 - <span style="color:#9f9">Express</span>
 - Libreria [Dotenv](https://www.npmjs.com/package/dotenv) y [Handlebars](https://github.com/handlebars-lang/handlebars.js)
-- Y desplegada en heroku 
+- Y desplegada en [Heroku](https://www.heroku.com) 
   
   
 ## <span style="color:#9f0; font-weight:bold;">Que aprendí</span>
