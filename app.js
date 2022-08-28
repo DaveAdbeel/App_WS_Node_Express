@@ -40,4 +40,4 @@ app.get("*", (req, res) => {
     res.render(`404`);
 });
 
-app.listen(port, () => console.log(`Listening in the ${port} port`));
+app.listen(port, () => console.log(`Listening in the http://localhost:${port}`));
